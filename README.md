@@ -1,1 +1,2 @@
 # Line-Following-Robot
+Developed a line-following robot using Arduino UNO and IR sensors to autonomously detect and track either black or white lines on contrasting surfaces. The system processes sensor inputs to control the robot's speed and direction, ensuring it follows the path and performs assigned tasks. Key components include input signal processing, decision-making via the microcontroller, and motor control for navigation.
